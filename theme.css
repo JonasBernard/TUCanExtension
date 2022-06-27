@@ -76,7 +76,7 @@ body #pageTopNavi ul.nav li a {
     color: var(--navigation-buttons-fg-color) !important;
 }
 
-table, tbody {
+table, tbody, .level03_color {
     background-color: var(--table-bg-color) !important;
 }
 
